@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(t){"use strict";var s={actions:{},assertions:{}};return new t({appId:"project1",componentId:"RisksList",contextPath:"/Risks"},s)});
+//# sourceMappingURL=RisksList.js.map
